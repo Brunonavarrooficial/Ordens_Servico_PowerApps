@@ -17,7 +17,7 @@
 
 <div align='center'>
     <h3>Planilha 📊</h3>
-    <img alt='Excel' width='250' src='./src/assets/img/excel.jpg' />
+    <img alt='Excel' src='./src/assets/img/excel.jpg' />
 </div>
 
  
